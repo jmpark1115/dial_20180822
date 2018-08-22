@@ -1,36 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e194cb12-d831-4eb4-9b75-0bdb19aea863" name="Default" comment="init">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/.idea/dataflow.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/dialogflow/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/dialogflow/actions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/dialogflow/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/dialogflow/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/dialogflow/templates/dialogflow/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/dialogflow/templates/dialogflow/naver_blog_search_result.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/dialogflow/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/env.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/manage.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/myenv.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/mykatok3/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/mykatok3/encoders.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/mykatok3/middleware.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/mykatok3/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/mykatok3/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/apps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/decorators.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/templates/plusfriend/post_list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../dialog2/plusfriend/views.py" />
+    <list default="true" id="e194cb12-d831-4eb4-9b75-0bdb19aea863" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../dialog2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dialog2/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -143,22 +115,6 @@
               <item name="dataflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="dialog2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dataflow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dialog2" type="462c0819:PsiDirectoryNode" />
-              <item name="dialogflow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataflow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dialog2" type="462c0819:PsiDirectoryNode" />
-              <item name="dialogflow" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataflow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dialog2" type="462c0819:PsiDirectoryNode" />
-              <item name="mykatok3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -258,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534924781071</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init">
+      <created>1534924904624</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534924904624</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
